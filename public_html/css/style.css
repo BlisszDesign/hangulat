@@ -1,0 +1,38 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 2017.10.24., 19:42:13
+    Author     : Eszti
+*/
+/*
+h1 {
+    background-color: darkred;
+    color: whitesmoke;
+    font-size: 3em;
+    text-align: center;
+    margin: 10px;
+}
+*/
+* {
+    margin:0;
+}
+/*body {
+}*/
+h1 {
+    float: left;
+    text-align: right;
+    width: 18%;
+   }
+   
+   p {
+       
+       text-align: right;
+   }  
+#advent {
+    width: 80%;
+    float: right;
+    padding: 10px 10px 0px 10px;
+}
